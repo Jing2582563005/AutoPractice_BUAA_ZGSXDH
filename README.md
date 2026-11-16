@@ -17,4 +17,4 @@
 
 6.仅适用于2026，**请先用手动测试版本看看选择的答案对不对**，不然成绩不保！
 
-7.题库来源：https://github.com/TonyYu02/BUAA-Engineering-Ethics.git
+7.题库来源：[https://github.com/TonyYu02/BUAA-Engineering-Ethics.git](https://github.com/pridezzh/buaa-chinese-modernization.git)
